@@ -1,0 +1,11 @@
+div.gameStatus {
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #554994;
+  background-color: white;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-block: 1em;
+}

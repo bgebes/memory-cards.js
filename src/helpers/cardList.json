@@ -1,0 +1,152 @@
+[
+  {
+    "id": 0,
+    "image": "/images/alien.png",
+    "title": "Alien",
+    "status": "closed"
+  },
+  {
+    "id": 1,
+    "image": "/images/alien.png",
+    "title": "Alien",
+    "status": "closed"
+  },
+  {
+    "id": 2,
+    "image": "/images/asteroid.png",
+    "title": "Asteroid",
+    "status": "closed"
+  },
+  {
+    "id": 3,
+    "image": "/images/asteroid.png",
+    "title": "Asteroid",
+    "status": "closed"
+  },
+  {
+    "id": 4,
+    "image": "/images/astronaut.png",
+    "title": "Astronaut",
+    "status": "closed"
+  },
+  {
+    "id": 5,
+    "image": "/images/astronaut.png",
+    "title": "Astronaut",
+    "status": "closed"
+  },
+  {
+    "id": 6,
+    "image": "/images/black-hole.png",
+    "title": "Black Hole",
+    "status": "closed"
+  },
+  {
+    "id": 7,
+    "image": "/images/black-hole.png",
+    "title": "Black Hole",
+    "status": "closed"
+  },
+  {
+    "id": 8,
+    "image": "/images/earth.png",
+    "title": "Earth",
+    "status": "closed"
+  },
+  {
+    "id": 9,
+    "image": "/images/earth.png",
+    "title": "Earth",
+    "status": "closed"
+  },
+  {
+    "id": 10,
+    "image": "/images/jupiter.png",
+    "title": "Jupiter",
+    "status": "closed"
+  },
+  {
+    "id": 11,
+    "image": "/images/jupiter.png",
+    "title": "Jupiter",
+    "status": "closed"
+  },
+  {
+    "id": 12,
+    "image": "/images/meteorite.png",
+    "title": "Meteorite",
+    "status": "closed"
+  },
+  {
+    "id": 13,
+    "image": "/images/meteorite.png",
+    "title": "Meteorite",
+    "status": "closed"
+  },
+  {
+    "id": 14,
+    "image": "/images/rocket.png",
+    "title": "Rocket",
+    "status": "closed"
+  },
+  {
+    "id": 15,
+    "image": "/images/rocket.png",
+    "title": "Rocket",
+    "status": "closed"
+  },
+  {
+    "id": 16,
+    "image": "/images/saturn.png",
+    "title": "Saturn",
+    "status": "closed"
+  },
+  {
+    "id": 17,
+    "image": "/images/saturn.png",
+    "title": "Saturn",
+    "status": "closed"
+  },
+  {
+    "id": 18,
+    "image": "/images/shooting-star.png",
+    "title": "Shooting Star",
+    "status": "closed"
+  },
+  {
+    "id": 19,
+    "image": "/images/shooting-star.png",
+    "title": "Shooting Star",
+    "status": "closed"
+  },
+  {
+    "id": 20,
+    "image": "/images/space-shuttle.png",
+    "title": "Space Shuttle",
+    "status": "closed"
+  },
+  {
+    "id": 21,
+    "image": "/images/space-shuttle.png",
+    "title": "Space Shuttle",
+    "status": "closed"
+  },
+  {
+    "id": 22,
+    "image": "/images/ufo.png",
+    "title": "Ufo",
+    "status": "closed"
+  },
+  {
+    "id": 23,
+    "image": "/images/ufo.png",
+    "title": "Ufo",
+    "status": "closed"
+  },
+  {
+    "id": 24,
+    "image": "/images/joker.png",
+    "title": "Joker",
+    "status": "closed"
+  }
+]

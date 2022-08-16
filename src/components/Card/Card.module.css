@@ -1,0 +1,44 @@
+div.cardStyle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 30vh;
+  border: 1px solid #554994;
+
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition-property: all;
+  transition-duration: 1s;
+}
+
+div.cardStyle[class~='defaultCard']:hover {
+  animation: neon 0.5s;
+  border: 3px solid #6edcd9;
+}
+
+div.done {
+  border: 3px solid #10d810 !important;
+  opacity: 0.5 !important;
+}
+
+div.temporaryDisabled {
+  opacity: 0.5 !important;
+}
+
+@keyframes neon {
+  0% {
+    border: 3px solid #332fd0;
+  }
+  35% {
+    border: 3px solid #9254c8;
+  }
+  50% {
+    border: 3px solid #e15fed;
+  }
+  75% {
+    border: 3px solid #f2fa5a;
+  }
+  100% {
+    border: 3px solid #6edcd9;
+  }
+}
