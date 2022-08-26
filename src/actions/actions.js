@@ -106,6 +106,7 @@ export function closeCard(card) {
 export function toggleCard(card) {
   const state = store.getState().app.entities[0];
   if (state.status !== 'Playing' && state.status !== 'Selecting') return;
+  if (card.status === 'done') return;
 
   if (card.status === 'opened') {
     closeCard(card);
